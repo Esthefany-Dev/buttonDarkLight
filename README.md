@@ -13,7 +13,7 @@ Project developed for personal study of Front-End. <br/>
 
 ## 🔥 Layout
 <p align="center">
-  <img alt="project ButtonDarkLight" src=.github/layout-dark-light-btn.png" width="100%">
+  <img alt="project ButtonDarkLight" src=".github/light-dark-btn.jpeg" width="40%">
 </p>
 
 ## 🌐 Technologies
@@ -31,4 +31,4 @@ ButtonDarkLight is a simple project designed to change the screen theme/mode to 
 
 ---
 
- 👩‍💻 by [Esthefany-Dev](https://github.com/Esthefany-Dev)
+👩‍💻 by [Esthefany-Dev](https://github.com/Esthefany-Dev)
